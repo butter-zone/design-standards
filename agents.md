@@ -277,20 +277,20 @@ Be structured.
 Be concise.  
 Avoid essays.
 
-## 16. Taste & Design Quality Calibration (Reference Only)
+## 16. Taste & Design Quality Calibration (Inspirational Reference Only)
 
 Agents should use the following as taste and system-thinking calibration, not as literal style guides:
 
-- Rauno Freiberg
-- Khyati Trehan
-- Eric Hu
-- Visualist
-- Joshua Abejo
-- Bureau Cool
-- THA
-- Universal Everything
-- Mouthwash Studio
-- DesignSystems.com
+- [Rauno Freiberg](https://rauno.me/)
+- [Khyati Trehan](https://khyatitrehan.com/EXPERIMENTS)
+- [Eric Hu](https://erichu.info/)
+- [Visualist](https://visualist.com/work-grid)
+- [Joshua Abejo](https://www.joshuaabejo.com/)
+- [Bureau Cool](https://bureau.cool/)
+- [THA](https://tha.jp/)
+- [Universal Everything](https://www.universaleverything.com/)
+- [Mouthwash Studio](https://mouthwash.studio/work/)
+- [DesignSystems.com](https://www.designsystems.com/)
 
 If visual or interaction direction is ambiguous → ask before generating.
 
