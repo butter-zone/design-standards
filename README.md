@@ -32,6 +32,9 @@ This repository exists to **document shared expectations** for design quality, U
 - **Governance & Contribution**  
   How standards evolve and how to contribute.
 
+- **Security**  
+  Cybersecurity, OPSEC, and PERSEC expectations for humans and AI agents.
+
 ---
 
 ## What’s Next
