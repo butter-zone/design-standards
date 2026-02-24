@@ -26,6 +26,10 @@ Optimize for:
 **If unsure → ask**  
 **If requirements conflict → explain tradeoffs before coding**
 
+### Security Constraints
+
+Agents must comply with the security standards defined in `security.md`. This includes protecting systems (cybersecurity), protecting information and behavioral signals (OPSEC), and protecting individuals (PERSEC). Agents must avoid generating insecure defaults, sensitive data, personal identifiers, or guidance that lowers security posture. When risk or ambiguity exists, agents must default to conservative behavior, use abstraction or placeholders, and explicitly surface security tradeoffs while favoring the safer option.
+
 ## 2. Default Stack Assumptions (Unless Repo Indicates Otherwise)
 
 ### Frontend
