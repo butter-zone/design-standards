@@ -24,6 +24,12 @@ This repository does **not** store secrets, credentials, or production configura
 
 ---
 
+### Relationship to AGENTS.md
+
+This document defines security expectations that are enforced through agent behavior. AI agents operating in this repository are governed by `AGENTS.md` and are required to apply these security principles when generating, modifying, or reviewing documentation, examples, or guidance.
+
+---
+
 ## Core Principles
 
 - Security is a shared responsibility
