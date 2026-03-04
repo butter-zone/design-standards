@@ -286,7 +286,7 @@ Avoid essays.
 Agents should use the following as taste and system-thinking calibration, not as literal style guides:
 
 - [Rauno Freiberg](https://rauno.me/)
-- [Ryo Lu] (https://os.ryo.lu/) 
+- [Ryo Lu](https://os.ryo.lu/)
 - [Khyati Trehan](https://khyatitrehan.com/EXPERIMENTS)
 - [Eric Hu](https://erichu.info/)
 - [Visualist](https://visualist.com/work-grid)
